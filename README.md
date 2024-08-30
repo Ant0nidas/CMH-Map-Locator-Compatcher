@@ -1,6 +1,6 @@
 ## CMM Map Locator Compatcher: GENERAL INSTALLATION INSTRUCTIONS
 
-1. Unzip the folder inside the downloaded .7z archive to any place you like. You need an archiving utility like 7-Zip (free, open source, cross-platform) to unzip .7z files effectively.
+1. Unzip the folder inside the downloaded .zip archive to any place you like. You need an archiving utility like 7-Zip (free, open source, cross-platform) to unzip .7z files effectively.
 
 2. Run CMH_locator_compatcher.exe. This is the automatic compatcher.
 
