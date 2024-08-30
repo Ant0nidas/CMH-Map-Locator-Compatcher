@@ -7,7 +7,7 @@
 3. The compatch process is brief, but if you are new to it, do take care to read through your options.
 
 4. You will have two options to choose from:<br/>
-4.1 Automatic ID Matching: Automatically identify mismatching IDs between your mod and the base game or another mod. Input the path to your mod's locator files first, then the path of your Steam installation. The compatcher will compare these two files and grab the modded IDs.<br/>
+4.1 Automatic ID Matching: Automatically identify mismatching IDs between your mod and another mod. Input the path to your mod's locator files first, then the path of your Steam installation. The compatcher will compare these two files and grab the modded IDs.<br/>
 4.2 Manual ID Input: Provide a direct path to a file containing specific IDs that you want to compatch. Check example_locator_list.txt and use this format.
 
 5. After that, input the path of the mod's locator files which you want to create a compatch for. A copy of this mod's file will be created and used as a base to get injected with your modded IDs.
